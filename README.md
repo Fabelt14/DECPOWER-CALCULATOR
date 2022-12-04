@@ -1,7 +1,7 @@
 # DECPOWER-CALCULATOR
 -This is a python language based program
 
--It's a calculator that comprises of both Approximation and Rounding off Number
+-It's a calculator that comprises of both Approximation and Power Numbers
 
 -It has two option which are:
 
